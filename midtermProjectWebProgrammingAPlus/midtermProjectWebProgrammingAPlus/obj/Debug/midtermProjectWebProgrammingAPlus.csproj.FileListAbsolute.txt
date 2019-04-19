@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\Visual Studio 2012\Projects\midtermProjectWebProgrammingAPlus\midtermProjectWebProgrammingAPlus\obj\Debug\midtermProjectWebProgrammingAPlus.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2012\Projects\midtermProjectWebProgrammingAPlus\midtermProjectWebProgrammingAPlus\bin\midtermProjectWebProgrammingAPlus.dll
+C:\Users\Student\Documents\Visual Studio 2012\Projects\midtermProjectWebProgrammingAPlus\midtermProjectWebProgrammingAPlus\bin\midtermProjectWebProgrammingAPlus.pdb
+C:\Users\Student\Documents\Visual Studio 2012\Projects\midtermProjectWebProgrammingAPlus\midtermProjectWebProgrammingAPlus\obj\Debug\midtermProjectWebProgrammingAPlus.dll
+C:\Users\Student\Documents\Visual Studio 2012\Projects\midtermProjectWebProgrammingAPlus\midtermProjectWebProgrammingAPlus\obj\Debug\midtermProjectWebProgrammingAPlus.pdb
